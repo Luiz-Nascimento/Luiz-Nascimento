@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luiz-Nascimento
-- 👀 I’m interested in improve my python skills.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python codes.
+- 👀 I’m interested in improve my java skills.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on java codes.
 - 📫 How to reach me luiznascimento-developer@gmail.com
 
 <!---
