@@ -1,5 +1,15 @@
-👋 Hey, I'm Luiz!
-📚 I am a Information Systems student at Universidade Tiradentes (UNIT), passionate about backend development.
-🖥👨‍💻 Learning: Java, SpringBoot, Docker, MySQL, PostgreSQL, Python, HTML5, CSS3 and JavaScript.
+👋 Olá! Eu sou o Luiz
 
-![Luiz-Nascimento's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Nascimento&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+🎯 Desenvolvedor Java focado em backend 
+📚 Cursando Sistemas de Informação na Universidade Tiradentes
+
+🔧 Tecnologias que uso
+- Java • Spring Boot • JPA/Hibernate  
+- MySQL • PostgreSQL  
+- Docker • Linux  
+- Git • GitHub
+- AWS  
+
+📫 Onde me encontrar
+- LinkedIn: https://www.linkedin.com/in/luiznascimentodev/
+- Email: luiznascimento.developer@gmail.com
