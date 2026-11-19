@@ -62,15 +62,6 @@ Sou desenvolvedor backend com foco no ecossistema **Java + Spring**. Gosto de co
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&locale=pt-br" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 Estou aberto a oportunidades de **estágio / desenvolvedor júnior backend**, projetos colaborativos e trocas sobre Java e Spring.
