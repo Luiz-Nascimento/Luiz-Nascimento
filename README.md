@@ -19,7 +19,6 @@ Sou desenvolvedor backend com foco no ecossistema **Java + Spring**. Gosto de co
 - 🗄️ Trabalho com modelagem relacional e persistência usando **JPA/Hibernate**
 - 🐳 Empacoto e rodo aplicações com **Docker** em ambiente **Linux**
 - ☁️ Estudando **cloud** (AWS e Oracle Cloud) e práticas de deploy
-- 🌱 Atualmente aprendendo: `<!-- ex.: testes com JUnit/Mockito, mensageria, microsserviços -->`
 
 ---
 
@@ -53,12 +52,10 @@ Sou desenvolvedor backend com foco no ecossistema **Java + Spring**. Gosto de co
 
 ## 🚀 Projetos em destaque
 
-<!-- Substitua pelos seus projetos reais. 2 a 4 projetos bem descritos valem mais que 10 sem contexto. -->
-
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**nome-do-projeto**](https://github.com/SEU_USUARIO/nome-do-projeto) | API REST para ... com autenticação JWT, controle de acesso por perfil e documentação Swagger | Java · Spring Boot · Spring Security · PostgreSQL · Docker |
-| [**dosis-app**](https://github.com/SEU_USUARIO/dosis-app) | App mobile desenvolvido em equipe para ... | Flutter · Firebase · Django |
+| [jotanunes-backend](https://github.com/Luiz-Nascimento/jotanunes-backend)| API REST para gerenciamentos de documentos de construção civil com autenticação JWT, controle de acesso por perfil e documentação Swagger | Java · Spring Boot · Spring Security · PostgreSQL · Docker |
+| [**dosis-app**](https://github.com/SEU_USUARIO/dosis-app) | App mobile desenvolvido em equipe para controle de dosagem de suplementos e anabolizantes | Flutter · Firebase · Django |
 
 ---
 
